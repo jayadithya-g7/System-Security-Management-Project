@@ -1,1 +1,0 @@
-You can advance this system by using various port scanning tools such as nmap, or web exploitation tools such as burp suite, foxy proxy, advance vpn servers using OpenVPN, windows sysmon, linux tripwire
